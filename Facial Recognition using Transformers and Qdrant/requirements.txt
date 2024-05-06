@@ -1,0 +1,5 @@
+qdrant-client
+pillow
+opencv-python
+transformers
+datasets
